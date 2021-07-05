@@ -6,6 +6,10 @@
 
 # [2. The Big-O Notation](https://github.com/c4arl0s/2TheBig-O_NotationInObjectiveC#2-the-big-o-notation-in-objective-c--content)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124491010-64176180-dd78-11eb-8ddd-688debb5f641.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124491172-9628c380-dd78-11eb-98e9-7ae274c516d0.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124491274-af317480-dd78-11eb-8805-f6501eda33f5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124491377-d1c38d80-dd78-11eb-8598-f9f507f0fcf9.png" width="250"> |
+
 1. [x] [1. Constant Time Complexity](https://github.com/c4arl0s/2TheBig-O_NotationInObjectiveC#-constant-time-complexity)
     - [x] [BenchTimer](https://github.com/c4arl0s/2TheBig-O_NotationInObjectiveC#benchtimer)
     - [x] [Takes an array and checks whether the first element is 0](https://github.com/c4arl0s/2TheBig-O_NotationInObjectiveC#takes-an-array-and-checks-whether-the-first-element-is-0)
@@ -41,12 +45,20 @@
 
 # [3. Recursion](https://github.com/c4arl0s/3RecursionInObjectiveC#3-recursion-in-objective-c---content)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124491857-57473d80-dd79-11eb-975a-ae1469436350.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124491954-73e37580-dd79-11eb-80c5-ec20df717b97.png" width="250"> |
+
 1. [x] [1. What is recursion?](https://github.com/c4arl0s/3RecursionInObjectiveC#-what-is-recursion)
 2. [x] [2. How Does Recursion Work?](https://github.com/c4arl0s/3RecursionInObjectiveC#-how-does-recursion-work)
 3. [x] [3. Recursion Pitfalls](https://github.com/c4arl0s/3RecursionInObjectiveC#-recursion-pitfalls)
 4. [x] [4. How to Avoid Infinite Recursion](https://github.com/c4arl0s/3RecursionInObjectiveC#-how-to-avoid-infinite-recursion)
 
 # [4. The Power Of Algorithms](https://github.com/c4arl0s/4ThePowerOfAlgorithmsInObjectiveC#4-the-power-of-algorithms-in-objective-c---content)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124492496-26b3d380-dd7a-11eb-8933-5f94eec01f61.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124492547-3c28fd80-dd7a-11eb-8800-64a4d2248e6c.png" width="250"> |
 
 1. [x] [1. Calculate Sum(n)](https://github.com/c4arl0s/4ThePowerOfAlgorithmsInObjectiveC#calculate-sumn)
    - [x] [sum(n) function](https://github.com/c4arl0s/4ThePowerOfAlgorithmsInObjectiveC#sumn-function)
@@ -79,6 +91,10 @@
 
 # [6. The Build-In Objective-C collection Types](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#21-collection-classes---objectivec---content)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124493221-fde00e00-dd7a-11eb-8141-1456833257a5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124493515-544d4c80-dd7b-11eb-9212-d8fef4c280af.png" width="250"> |
+
 1. [x] [1. NSArray / NSMutableArray](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#1-nsarray--nsmutablearray)
     - [x] [Immutable objects](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#2-immutable-objects)
     - [x] [Sorting](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#3-sorting)
@@ -89,6 +105,10 @@
 5. [x] [5. Collections and nil](https://github.com/c4arl0s/21CollectionClasses-ObjectiveC#8-collections-and-nil)
 
 # 7. [Basic Sorting](https://github.com/c4arl0s/7BasicSortingInObjectiveC#7-basic-sorting-in-objective-c---content)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124493923-caea4a00-dd7b-11eb-8c49-4c1dae958773.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124493973-df2e4700-dd7b-11eb-8f91-b936cc14dc6e.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124494085-084ed780-dd7c-11eb-9ed8-c4cd6f43f3b3.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124494200-27e60000-dd7c-11eb-80c7-2aff933e8dc6.png" width="250"> |
 
 1. [x] [1. Selection Sort](https://github.com/c4arl0s/7BasicSortingInObjectiveC#1-selection-sort)
     - [x] [Selection Sort Implementation](https://github.com/c4arl0s/7BasicSortingInObjectiveC#selection-sort-implementation)
@@ -115,6 +135,10 @@
     - [x] [Selection vs Insertion vs Bubble sort algorithms execution and results](https://github.com/c4arl0s/7BasicSortingInObjectiveC#selection-vs-insertion-vs-bubble-sort-algorithms-execution-and-results)
 
 # [8. Advance Sorting](https://github.com/c4arl0s/8AdvanceSortingInObjectiveC#8-advance-sorting-in-objective-c---content)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124496297-dee37b00-dd7e-11eb-9377-0e1352e6de71.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124496380-f7539580-dd7e-11eb-9ef7-6281faadfa75.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124496471-13efcd80-dd7f-11eb-99e8-6ca3e779ea2b.png" width="250"> |
  
 1. [x] [1. The merge sort](https://github.com/c4arl0s/8AdvanceSortingInObjectiveC#1-the-merge-sort)
     - [x] [Merge Sort Implementation](https://github.com/c4arl0s/8AdvanceSortingInObjectiveC#merge-sort-implementation)
